@@ -1,11 +1,12 @@
 # Tweet-profanity-checker
+This is a Python program that reads tweets from a file and calculates the degree of profanity for each tweet based on a set of racial slurs.
 
 # Prerequisites
 To run this program, you need to have Python 3 installed on your system.
 
 # Usage
 Clone this repository to your local machine.
-Replace tweets.txt with the file path of the file containing tweets that you want to analyze.
+Replace tweets1.txt with the file path of the file containing tweets that you want to analyze.
 Replace the set of racial_slurs with the actual set of words that indicate racial slurs that you want to detect.
 Run the program using a Python interpreter or an IDE.
 The program will calculate the degree of profanity for each tweet and print the results to the console.
