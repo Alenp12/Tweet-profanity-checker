@@ -2,7 +2,7 @@
 This is a Python program that reads tweets from a file and calculates the degree of profanity for each tweet based on a set of racial slurs.
 
 # Prerequisites
-To run this program, you need to have Python 3 installed on your system.
+To run this program, you need to have latest version of Python or PyCharm installed on your system. You can also use google colab.
 
 # Usage
 Clone this repository to your local machine.
